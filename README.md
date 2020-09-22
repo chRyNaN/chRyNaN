@@ -18,6 +18,7 @@ Easily develop Kotlin Multi-platform Applications using these libraries I create
 * [pixel](https://github.com/chRyNaN/pixel) - Screen dimension units.
 * [logger](https://github.com/chRyNaN/logger) - Kotlin Multi-platform logging utility.
 * [locator](https://github.com/chRyNaN/locator) - Simple service locator.
+* [uri]() - Kotlin Mutli-platform URI objects and validation.
 
 ---
 
