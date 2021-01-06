@@ -3,7 +3,7 @@ Professional software engineer. Kotlin and clean code enthusiast.
 
 - 📰 Latest posts: [chrynan.codes](https://chrynan.codes)
 
-- 🌎 Fediverse: @chRyNaN@chattr.pub
+- 🌎 Fediverse: [@chRyNaN@chattr.pub](https://chattr.pub/web/accounts/1)
 
 - 📫 How to reach me: [Contact me here](https://chrynan.codes/contact/)
 
