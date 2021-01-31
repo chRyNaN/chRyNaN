@@ -11,6 +11,7 @@ Professional software engineer. Kotlin and clean code enthusiast.
 
 Easily develop Kotlin Multi-platform Applications using these libraries I created:
 * [presentation](https://github.com/chRyNaN/presentation) - Presentation layer architecture pattern.
+* [time](https://github.com/chRyNaN/time) - Kotlin Duration and kotlinx.datetime companion library.
 * [emoji](https://github.com/chRyNaN/emoji) - Emoji usage and UI support library.
 * [inject](https://github.com/chRyNaN/inject) - Inject annotations for common code.
 * [dispatchers](https://github.com/chRyNaN/dispatchers) - Simple wrapper around the Kotlin Coroutine `Dispatchers` object for common usecases.
