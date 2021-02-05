@@ -10,10 +10,11 @@ Professional software engineer. Kotlin and clean code enthusiast.
 ---
 
 Easily develop Kotlin Multi-platform Applications using these libraries I created:
+* [inject](https://github.com/chRyNaN/inject) - Inject annotations for common code.
 * [presentation](https://github.com/chRyNaN/presentation) - Presentation layer architecture pattern.
 * [time](https://github.com/chRyNaN/time) - Kotlin Duration and kotlinx.datetime companion library.
+* [paginate](https://github.com/chRyNaN/paginate) - Kotlin Pagination Library.
 * [emoji](https://github.com/chRyNaN/emoji) - Emoji usage and UI support library.
-* [inject](https://github.com/chRyNaN/inject) - Inject annotations for common code.
 * [dispatchers](https://github.com/chRyNaN/dispatchers) - Simple wrapper around the Kotlin Coroutine `Dispatchers` object for common usecases.
 * [validator](https://github.com/chRyNaN/validator) - Simple and flexible validation library.
 * [colors](https://github.com/chRyNaN/colors) - Color representation for common code.
