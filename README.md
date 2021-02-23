@@ -1,5 +1,5 @@
 ### chRyNaN
-Christopher Keenan
+Christopher Keenan <br/>
 Professional software engineer. Kotlin and clean code enthusiast.
 
 - 📰 Latest posts: [chrynan.codes](https://chrynan.codes)
