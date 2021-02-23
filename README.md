@@ -1,4 +1,5 @@
 ### chRyNaN
+Christopher Keenan
 Professional software engineer. Kotlin and clean code enthusiast.
 
 - 📰 Latest posts: [chrynan.codes](https://chrynan.codes)
@@ -22,7 +23,10 @@ Easily develop Kotlin Multi-platform Applications using these libraries I create
 * [pixel](https://github.com/chRyNaN/pixel) - Screen dimension units.
 * [logger](https://github.com/chRyNaN/logger) - Kotlin Multi-platform logging utility.
 * [locator](https://github.com/chRyNaN/locator) - Simple service locator.
-* [uri]() - Kotlin Mutli-platform URI objects and validation.
+* [uri](https://github.com/chRyNaN/uri) - Kotlin Mutli-platform URI objects and validation.
+* [serialization-parcelable](https://github.com/chRyNaN/serialization-parcelable) - Android Parcelable support for kotlinx.serialization.
+* [aaaah](https://github.com/chRyNaN/aaaah) - Android RecyclerView adapter abstraction.
+* [pathmatch](https://github.com/chRyNaN/pathmatch) - Simple path matching utility.
 
 ---
 
