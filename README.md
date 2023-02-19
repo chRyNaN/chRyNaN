@@ -38,4 +38,4 @@ Professional software engineer. Kotlin and clean code enthusiast. Active open so
 
 Help support my Kotlin multi-platform open source work!
 
-<a href="https://www.buymeacoffee.com/chrynan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></img></a>
+<a href="https://www.buymeacoffee.com/chrynan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;"></img></a>
