@@ -27,7 +27,6 @@ Professional software engineer. Kotlin and clean code enthusiast. Active open so
 
 #### Featured articles
 
-<br/>
 <a title="Android Weekly Issue 450" href="https://androidweekly.net/issues/issue-450"><img alt="Badge" src="https://androidweekly.net/issues/issue-450/badge" height="20px"></img></a>
 <a title="Android Weekly Issue 431" href="https://androidweekly.net/issues/issue-431"><img alt="Badge" src="https://androidweekly.net/issues/issue-431/badge" height="20px"></img></a>
 <a title="Android Weekly Issue 401" href="https://androidweekly.net/issues/issue-401"><img alt="Badge" src="https://androidweekly.net/issues/issue-401/badge" height="20px"></img></a>
