@@ -13,7 +13,8 @@ Professional software engineer. Kotlin and clean code enthusiast. Active open so
 * [inject](https://github.com/chRyNaN/inject) - Inject annotations for common code.
 * [serialization-parcelable](https://github.com/chRyNaN/serialization-parcelable) - Android Parcelable support for kotlinx.serialization.
 * [krypt](https://github.com/chRyNaN/krypt) - Kotlin multi-platform cryptographic utility library.
-* [presentation](https://github.com/chRyNaN/presentation) - App presentation layer design pattern.
+* [kapi](https://github.com/chRyNaN/krypt) - Server-side API development with Ktor.
+* [cycle](https://github.com/chRyNaN/cycle) - App presentation layer design pattern.
 * [navigation](https://github.com/chRyNaN/navigation) - App navigation library.
 * [time](https://github.com/chRyNaN/time) - Kotlin Duration and kotlinx.datetime companion library.
 * [paginate](https://github.com/chRyNaN/paginate) - Kotlin Pagination Library.
