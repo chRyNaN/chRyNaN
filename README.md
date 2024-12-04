@@ -1,7 +1,7 @@
 ### chRyNaN
 Chris Keenan <br/>
 
-Professional software engineer. Kotlin and clean code enthusiast. Active open source contributor for the Kotlin multi-platform ecosystem. Senior Android Engineer at @StarryInternet.
+Professional software engineer. Kotlin and clean code enthusiast. Active open source contributor for the Kotlin multi-platform ecosystem. Senior Android Engineer.
 
 - 📰 Latest articles: [chriskeenan.codes](https://chriskeenan.codes)
 - 🐦 Follow me on X: [@ChrisKeenan](https://twitter.com/ChrisKeenan)
