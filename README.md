@@ -6,16 +6,16 @@ Senior Android Engineer. Kotlin and clean code enthusiast. Active open source co
 Currently [@mooncloak](https://github.com/mooncloak) <br/>
 Formerly [@StarryInternet](https://github.com/StarryInternet) <br/>
 
-📰 Latest articles: [chriskeenan.codes](https://chriskeenan.codes) <br/>
-🐦 Follow me on X: [@ChrisKeenan](https://twitter.com/ChrisKeenan) <br/>
-📫 How to reach me: [Contact me here](https://chrynan.codes/contact/) <br/>
+* 📰 Latest articles: [chriskeenan.codes](https://chrynan.codes)
+* 🐦 Follow me on X: [@ChrisKeenan](https://twitter.com/ChrisKeenan)
+* 📫 How to reach me: [Contact me here](https://chrynan.codes/contact/)
 
 ---
 
 #### Open Source Projects
 
-* [inject](https://github.com/chRyNaN/inject) - Inject annotations for common code.
 * [serialization-parcelable](https://github.com/chRyNaN/serialization-parcelable) - Android Parcelable support for kotlinx.serialization.
+* [inject](https://github.com/chRyNaN/inject) - Inject annotations for common code.
 * [krypt](https://github.com/chRyNaN/krypt) - Kotlin multi-platform cryptographic utility library.
 * [kapi](https://github.com/chRyNaN/krypt) - Server-side API development with Ktor.
 * [cycle](https://github.com/chRyNaN/cycle) - App presentation layer design pattern.
