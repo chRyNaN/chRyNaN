@@ -1,5 +1,4 @@
-### chRyNaN
-Chris Keenan <br/>
+### Chris Keenan
 
 Senior Android Engineer. Kotlin and clean code enthusiast. Active open source contributor for the Kotlin multi-platform ecosystem.
 
