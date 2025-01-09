@@ -3,12 +3,12 @@ Chris Keenan <br/>
 
 Senior Android Engineer. Kotlin and clean code enthusiast. Active open source contributor for the Kotlin multi-platform ecosystem.
 
-Currently [@mooncloak](https://github.com/mooncloak)
-Formerly [@StarryInternet](https://github.com/StarryInternet)
+Currently [@mooncloak](https://github.com/mooncloak) <br/>
+Formerly [@StarryInternet](https://github.com/StarryInternet) <br/>
 
-📰 Latest articles: [chriskeenan.codes](https://chriskeenan.codes)
-🐦 Follow me on X: [@ChrisKeenan](https://twitter.com/ChrisKeenan)
-📫 How to reach me: [Contact me here](https://chrynan.codes/contact/)
+📰 Latest articles: [chriskeenan.codes](https://chriskeenan.codes) <br/>
+🐦 Follow me on X: [@ChrisKeenan](https://twitter.com/ChrisKeenan) <br/>
+📫 How to reach me: [Contact me here](https://chrynan.codes/contact/) <br/>
 
 ---
 
