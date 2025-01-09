@@ -1,11 +1,14 @@
 ### chRyNaN
 Chris Keenan <br/>
 
-Professional software engineer. Kotlin and clean code enthusiast. Active open source contributor for the Kotlin multi-platform ecosystem. Senior Android Engineer.
+Senior Android Engineer. Kotlin and clean code enthusiast. Active open source contributor for the Kotlin multi-platform ecosystem.
 
-- 📰 Latest articles: [chriskeenan.codes](https://chriskeenan.codes)
-- 🐦 Follow me on X: [@ChrisKeenan](https://twitter.com/ChrisKeenan)
-- 📫 How to reach me: [Contact me here](https://chrynan.codes/contact/)
+Currently [@mooncloak](https://github.com/mooncloak)
+Formerly [@StarryInternet](https://github.com/StarryInternet)
+
+📰 Latest articles: [chriskeenan.codes](https://chriskeenan.codes)
+🐦 Follow me on X: [@ChrisKeenan](https://twitter.com/ChrisKeenan)
+📫 How to reach me: [Contact me here](https://chrynan.codes/contact/)
 
 ---
 
