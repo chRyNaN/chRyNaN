@@ -25,8 +25,8 @@ Formerly [@StarryInternet](https://github.com/StarryInternet) <br/>
 * [validator](https://github.com/chRyNaN/validator) - Simple and flexible validation library.
 * [colors](https://github.com/chRyNaN/colors) - Color representation for common code.
 * [emoji](https://github.com/chRyNaN/emoji) - Emoji usage and UI support library.
-* [logger](https://github.com/chRyNaN/logger) - Kotlin Multi-platform logging utility.
-* [uri](https://github.com/chRyNaN/uri) - Kotlin Mutli-platform URI objects and validation.
+* [logger](https://github.com/chRyNaN/logger) - Kotlin Multiplatform logging utility.
+* [uri](https://github.com/chRyNaN/uri) - Kotlin Mutliplatform URI objects and validation.
 
 ---
 
@@ -43,6 +43,6 @@ Formerly [@StarryInternet](https://github.com/StarryInternet) <br/>
 
 ---
 
-Help support my Kotlin multi-platform open source work!
+Help support my Kotlin multiplatform open source work!
 
 <a href="https://www.buymeacoffee.com/chrynan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;"></img></a>
