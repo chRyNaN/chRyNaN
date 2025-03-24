@@ -1,6 +1,6 @@
 ### Chris Keenan
 
-Senior Android Engineer. Kotlin and clean code enthusiast. Active open source contributor for the Kotlin multi-platform ecosystem.
+Senior Software Engineer with over 10 years of Android development experience. Creator of [mooncloak VPN](https://mooncloak.com). Passionate about Kotlin, clean code, and contributing to the Kotlin multiplatform open source ecosystem.
 
 Currently [@mooncloak](https://github.com/mooncloak) <br/>
 Formerly [@StarryInternet](https://github.com/StarryInternet) <br/>
@@ -15,7 +15,7 @@ Formerly [@StarryInternet](https://github.com/StarryInternet) <br/>
 
 * [serialization-parcelable](https://github.com/chRyNaN/serialization-parcelable) - Android Parcelable support for kotlinx.serialization.
 * [inject](https://github.com/chRyNaN/inject) - Inject annotations for common code.
-* [krypt](https://github.com/chRyNaN/krypt) - Kotlin multi-platform cryptographic utility library.
+* [krypt](https://github.com/chRyNaN/krypt) - Kotlin multiplatform cryptographic utility library.
 * [kapi](https://github.com/chRyNaN/krypt) - Server-side API development with Ktor.
 * [cycle](https://github.com/chRyNaN/cycle) - App presentation layer design pattern.
 * [navigation](https://github.com/chRyNaN/navigation) - App navigation library.
@@ -32,6 +32,7 @@ Formerly [@StarryInternet](https://github.com/StarryInternet) <br/>
 
 #### Featured articles
 
+<a title="Android Weekly Issue 667" href="https://androidweekly.net/issues/issue-667"><img alt="Badge" height="20px" src="https://androidweekly.net/issues/issue-667/badge"></img></a>
 <a title="Android Weekly Issue 567" href="https://androidweekly.net/issues/issue-567"><img alt="Badge" height="20px" src="https://androidweekly.net/issues/issue-567/badge"></img></a>
 <a title="Android Weekly Issue 450" href="https://androidweekly.net/issues/issue-450"><img alt="Badge" src="https://androidweekly.net/issues/issue-450/badge" height="20px"></img></a>
 <a title="Android Weekly Issue 431" href="https://androidweekly.net/issues/issue-431"><img alt="Badge" src="https://androidweekly.net/issues/issue-431/badge" height="20px"></img></a>
