@@ -1,9 +1,6 @@
 ### Chris Keenan
 
-Senior Software Engineer with over 10 years of Android development experience. Creator of [mooncloak VPN](https://mooncloak.com). Passionate about Kotlin, clean code, and contributing to the Kotlin multiplatform open source ecosystem.
-
-Currently [@mooncloak](https://github.com/mooncloak) <br/>
-Formerly [@StarryInternet](https://github.com/StarryInternet) <br/>
+Senior Software Engineer with over 10 years of Android development experience. Passionate about Kotlin, clean code, and contributing to the Kotlin multiplatform open source ecosystem.
 
 * 📰 Latest articles: [chriskeenan.codes](https://chrynan.codes)
 * 🐦 Follow me on X: [@ChrisKeenan](https://twitter.com/ChrisKeenan)
